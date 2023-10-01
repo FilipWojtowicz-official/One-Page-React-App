@@ -1,0 +1,30 @@
+.navigation {
+  height: 50px;
+  display: flex;
+  background-color: #4e4e4e;
+}
+.navigation .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.my-company {
+  font-weight: 700;
+}
+
+.menu-list {
+  display: none;
+}
+
+.li-navigation {
+  margin: 10px;
+}
+.disabled {
+  cursor: not-allowed;
+  color: white;
+}
+@media screen and (min-width: 768px) {
+  .menu-list {
+    display: flex;
+  }
+}

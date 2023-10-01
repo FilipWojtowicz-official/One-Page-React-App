@@ -1,0 +1,21 @@
+.employee-section {
+  padding: 50px 0;
+}
+.employee-section {
+  background-color: white;
+}
+.our-specialists {
+  height: 35px;
+  font-weight: 700;
+  font-size: 36px;
+  text-align: center;
+  margin-bottom: 78px;
+  margin-top: 1px;
+
+  color: #152d41;
+}
+@media screen and (min-width: 768px) {
+  .our-specialists {
+    text-align: initial;
+  }
+}
