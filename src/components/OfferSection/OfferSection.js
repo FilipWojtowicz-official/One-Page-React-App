@@ -1,4 +1,3 @@
-import React from "react";
 import Container from "../Container/Container";
 import "./OfferSection.css";
 import { offers } from "../data/offers";

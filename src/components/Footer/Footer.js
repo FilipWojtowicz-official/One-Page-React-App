@@ -1,4 +1,3 @@
-import React from "react";
 import "./Footer.css";
 import Container from "../Container/Container";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

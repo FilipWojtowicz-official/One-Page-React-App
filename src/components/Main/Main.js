@@ -1,4 +1,3 @@
-import React from "react";
 import "./Main.css";
 import Container from "../Container/Container";
 
